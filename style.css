@@ -1,0 +1,12 @@
+ul[class], ol[class] {
+    list-style: none;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.items {
+    display: none;
+}
